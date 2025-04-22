@@ -3,6 +3,8 @@
 
 Trong thế giới giao dịch forex, **spread** là một yếu tố quan trọng ảnh hưởng trực tiếp đến chi phí giao dịch và lợi nhuận của trader. Spread thấp đồng nghĩa với việc bạn trả ít phí hơn cho mỗi giao dịch, đặc biệt hữu ích cho các chiến lược giao dịch tần suất cao như scalping hay day trading. Trong bài viết này, chúng tôi sẽ giới thiệu **top 10 sàn forex có spread thấp nhất thế giới năm 2025**, với **Exness** dẫn đầu danh sách nhờ chi phí giao dịch tối ưu và dịch vụ xuất sắc. Hãy cùng khám phá để tìm ra sàn forex phù hợp nhất cho bạn!
 
+💥 **[Mở tài khoản Exness ngay!](https://one.exnesstrack.org/boarding/sign-up/a/89rj8di4n7?lng=vi)** 
+
 ## Spread Là Gì Và Tại Sao Spread Thấp Quan Trọng?
 
 Trước khi đi vào danh sách, hãy hiểu rõ **spread** là gì. Trong forex, spread là **chênh lệch giữa giá mua (ask) và giá bán (bid)** của một cặp tiền tệ. Đây là chi phí chính mà trader phải trả cho sàn forex khi thực hiện giao dịch. Spread thường được tính bằng **pips** (điểm phần trăm thập phân).
