@@ -1,4 +1,4 @@
-# Hướng Dẫn Từng Bước Cách Tạo Tài Khoản Exness MT5 Cho Người Mới Bắt Đầu
+# Hướng Dẫn Cách Tạo Tài Khoản Exness MT5 Chi Tiết
 
 Giao dịch ngoại hối (Forex) ngày càng trở nên phổ biến tại Việt Nam, và **Exness** là một trong những sàn giao dịch uy tín được nhiều trader lựa chọn. Với nền tảng **MetaTrader 5 (MT5)**, Exness mang đến trải nghiệm giao dịch hiện đại, linh hoạt và nhiều tính năng nâng cao. Nếu bạn là người mới và đang tìm cách **tạo tài khoản Exness MT5**, bài viết này sẽ hướng dẫn bạn từng bước chi tiết, từ đăng ký tài khoản, xác minh danh tính, đến kết nối với MT5 để bắt đầu giao dịch.
 
