@@ -51,7 +51,7 @@ Dựa trên các tiêu chí này, dưới đây là danh sách **10 sàn giao d�
 - **Hỗ trợ tiếng Việt 24/7**: Đội ngũ hỗ trợ nhiệt tình, giúp trader Việt Nam giải quyết vấn đề nhanh chóng.
 - **Giấy phép uy tín**: Được cấp phép bởi FSA (Seychelles), CySEC (Síp), và FSCA (Nam Phi).
 
-![Exness Logo](https://d3dpet1g0ty5ed.cloudfront.net/EN_Lower_20gold_20pricing_800x800__GOOGLE.png)
+![Exness Logo](https://d3dpet1g0ty5ed.cloudfront.net/VN_When_20the_20gold_20market_20is_20moving_800x800__GOOGLE.png)
 
 💥 **[Mở tài khoản Exness ngay!](https://one.exnesstrack.org/boarding/sign-up/a/89rj8di4n7?lng=vi)** 
 
