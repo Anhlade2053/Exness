@@ -8,7 +8,7 @@ Trong thị trường ngoại hối (Forex), phí qua đêm (hay còn gọi là 
 
 ---
 
-## 1. Phí Qua Đêm (Swap) Là Gì?
+## 1. Phí Qua Đêm (Swap) Là Gì? 
 
 Trước khi đi sâu vào vấn đề phí qua đêm trên sàn Exness, chúng ta cần hiểu rõ **phí qua đêm** là gì và tại sao nó tồn tại trong giao dịch Forex.
 
